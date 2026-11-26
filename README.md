@@ -1,2 +1,2 @@
-This is a multi-session trading bot that handles each user's messages separately.
+এটি একটি মাল্টি-সেশন ট্রেডিং বট, যা প্রতিটি ব্যবহারকারীর বার্তা আলাদাভাবে পরিচালনা করে
 
